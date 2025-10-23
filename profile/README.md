@@ -22,9 +22,7 @@ Arke BaaS introduces a modular, plug-and-play ecosystem, where teams can share o
 With integrated tools for environment management, Arke BaaS aims to bridge the gap between closed, rigid low-code platforms like Firebase and the complexity of full custom setups — delivering a scalable, open, and developer-centric platform for modern backend development.
 
 ### 🧩 Key Features
-- Drag-and-drop backend builder  
 - Instant API generation  
-- Managed hosting with auto-deploy  
 - Modular and extensible architecture  
 - Built with Elixir for performance and reliability 
  
