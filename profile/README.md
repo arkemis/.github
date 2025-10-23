@@ -1,9 +1,17 @@
-## Hey, this is us 👋
+<h1 align="center">Arkemis</h1>
+
+<p align="center">Welcome to Arkemis's GitHub!</h1>
+
+### 🚀 About Arkemis
+
+We will help you ship better apps, faster. For more information, visit: https://arkemis.it
 
 Arkemis is developing Arke BaaS, a next-generation backend-as-a-service that combines the simplicity of low-code platforms with the power and flexibility of open-source technology.
 Built in Elixir, Arke BaaS allows developers, startups, and digital teams to create fully functional backends in minutes, directly from a self-service web interface — no installation or configuration required.
 
-![arke_stack](https://github.com/arkemishub/.github/assets/81776297/f5e9b3c0-0ece-4699-a479-8cd55438c81b)
+<p align="center">
+  <img src="https://github.com/arkemishub/.github/assets/81776297/f5e9b3c0-0ece-4699-a479-8cd55438c81b" alt="arke_stack" width="600"/>
+</p>
 
 Arche means knowledge principle.
 Arke is our development principle, a opensource framework.
@@ -12,11 +20,15 @@ Users can design data models, manage authentication, define business logic, and 
 Arke BaaS introduces a modular, plug-and-play ecosystem, where teams can share or reuse community-built modules to accelerate development.
 
 With integrated tools for environment management, Arke BaaS aims to bridge the gap between closed, rigid low-code platforms like Firebase and the complexity of full custom setups — delivering a scalable, open, and developer-centric platform for modern backend development.
+
+### 🧩 Key Features
+- Drag-and-drop backend builder  
+- Instant API generation  
+- Managed hosting with auto-deploy  
+- Modular and extensible architecture  
+- Built with Elixir for performance and reliability 
  
-Are you aware of any Italian teams that are developing similar solutions?
-We would love to fight the market giants together. 💪
- 
-### 🦦 Contributing to the ecosystem
+### ✨ Contributing to the ecosystem
 
 We contribute to the tools 🔧 we rely on to build and run Arke, while also maintaining 🧙‍♂️ our own open source projects like:
 
@@ -25,4 +37,8 @@ We contribute to the tools 🔧 we rely on to build and run Arke, while also mai
 - [Arke Auth](https://github.com/arkemis/arke-auth) - Authentication and Roles management
 - [Arke Postgres](https://github.com/arkemis/arke-postgres) - Postgres Database Plug
 
-Join on our [Discord](https://discord.gg/zAjmZYHXp7) to collaborate with us  🙌.
+### 🌍 Join the Community
+
+Follow our journey and contribute to the future of open backend systems:  
+👉 [arkemis.it](https://arkemis.it)  
+👉 [Discord Community](https://discord.gg/zAjmZYHXp7)
