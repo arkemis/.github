@@ -7,6 +7,11 @@ Built in Elixir, Arke BaaS allows developers, startups, and digital teams to cre
 
 Arche means knowledge principle.
 Arke is our development principle, a opensource framework.
+
+Users can design data models, manage authentication, define business logic, and generate APIs automatically, all while maintaining full visibility and control over their architecture.
+Arke BaaS introduces a modular, plug-and-play ecosystem, where teams can share or reuse community-built modules to accelerate development.
+
+With integrated tools for environment management, Arke BaaS aims to bridge the gap between closed, rigid low-code platforms like Firebase and the complexity of full custom setups — delivering a scalable, open, and developer-centric platform for modern backend development.
  
 Are you aware of any Italian teams that are developing similar solutions?
 We would love to fight the market giants together. 💪
