@@ -4,7 +4,8 @@
 
 ### 🚀 About Arkemis
 
-We will help you ship better apps, faster. For more information, visit: https://arkemis.it
+Arkemis is an Italian 🇮🇹 software company based in Milan.
+We help you ship better apps, faster. For more information, visit [https://arkemis.it](https://arkemis.it).
 
 Arkemis is developing Arke BaaS, a next-generation backend-as-a-service that combines the simplicity of low-code platforms with the power and flexibility of open-source technology.
 Built in Elixir, Arke BaaS allows developers, startups, and digital teams to create fully functional backends in minutes, directly from a self-service web interface — no installation or configuration required.
