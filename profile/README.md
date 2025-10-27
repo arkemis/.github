@@ -1,6 +1,6 @@
 <h1 align="center">Arkemis</h1>
 
-<p align="center">Welcome to Arkemis's GitHub!</h1>
+<p align="center">Welcome to Arkemis's GitHub ✨</h1>
 
 ### 🚀 About Arkemis
 
