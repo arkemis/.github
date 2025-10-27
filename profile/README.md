@@ -22,10 +22,14 @@ Arke BaaS introduces a modular, plug-and-play ecosystem, where teams can share o
 
 With integrated tools for environment management, Arke BaaS aims to bridge the gap between closed, rigid low-code platforms like Firebase and the complexity of full custom setups — delivering a scalable, open, and developer-centric platform for modern backend development.
 
+---
+
 ### 🧩 Key Features
 - Instant API generation  
 - Modular and extensible architecture  
 - Built with Elixir for performance and reliability 
+
+---
  
 ### ✨ Contributing to the ecosystem
 
@@ -34,8 +38,10 @@ With integrated tools for environment management, Arke BaaS aims to bridge the g
 - [Arke Auth](https://github.com/arkemis/arke-auth) - Authentication and Roles management
 - [Arke Postgres](https://github.com/arkemis/arke-postgres) - Postgres Database Plug
 
+---
+
 ### 🌍 Join the Community
 
 Follow our journey and contribute to the future of open backend systems:  
-👉 [arkemis.it](https://arkemis.it)  
-👉 [Discord Community](https://discord.gg/zAjmZYHXp7)
+- 🌐 [arkemis.it](https://arkemis.it)  
+- 💬 [Discord Community](https://discord.gg/zAjmZYHXp7)  
