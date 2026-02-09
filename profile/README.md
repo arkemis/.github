@@ -44,4 +44,4 @@ With integrated tools for environment management, Arke BaaS aims to bridge the g
 
 Follow our journey and contribute to the future of open backend systems:  
 - 🌐 [arkemis.it](https://arkemis.it)  
-- 💬 [Discord Community](https://discord.gg/zAjmZYHXp7)  
+- 💬 [Discord Community](https://arkemis.it/discord)  
